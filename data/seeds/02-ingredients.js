@@ -1,6 +1,6 @@
 exports.seed = function(knex) {
 	return knex('ingredients').insert([
-		{ ingredient_name: 'semen' }, // 1
+		{ ingredient_name: 'worms' }, // 1
 		{ ingredient_name: 'dirt' }, // 2
 		{ ingredient_name: 'wax' }, // 3
 		{ ingredient_name: 'oak leaves' }, // 4
